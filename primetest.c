@@ -8,9 +8,7 @@ uint64_t next_prime(uint64_t);
 int main()
 {
   uint64_t luku1,luku2,feed1,feed2,res;
-  int flag;
-
-
+  
   feed1 = 1000000000; //10 digits
   feed2 = 10000000000; //11 digits
 
